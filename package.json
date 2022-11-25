@@ -1,0 +1,14 @@
+{
+  "name": "js-async-playwright-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Aleksei Chyrva @freewayspb",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ticker.js"
+  },
+  "dependencies": {
+    "argparse": "^2.0.1",
+    "playwright": "^1.28.1"
+  }
+}
